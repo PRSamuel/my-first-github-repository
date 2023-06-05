@@ -2,3 +2,5 @@
 Here is my first GitHub repository. Let's get started with GitHub.
 
 README.MD file was just edited manually. One more change
+
+New file was added locally.
